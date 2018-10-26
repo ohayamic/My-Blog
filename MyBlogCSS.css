@@ -1,0 +1,81 @@
+/* this is the beginning*/
+body{
+	font-family: 'Handlee', cursive;
+}
+.nav{
+	margin:auto;
+	width: 900px;
+	padding: 10px;
+	background-color: blue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+li{
+	display: inline;
+	align-content: center;
+}
+.section{
+	margin:auto;
+	width: 900px;
+	padding: 10px;
+	background-color: lightgrey;
+}
+
+h1{
+	padding: : 10px;
+	text-align: center;
+}
+
+h1 span{
+	border-color: lightblue;
+	border-style: dotted;
+	border-width: 5px;
+}
+
+#firstp {
+	text-align: center;
+	width: 400px;
+	color: red;
+	float: left;
+}
+
+#secondp{
+	width: 400px;
+	color: blue;
+	float: right;
+
+}
+
+#thirdp{
+	color: brown;
+	clear: right;
+}
+
+
+#forthp{
+	color: brown;
+	width: 400px;
+	float: left;
+}
+
+video{
+	float: right;
+}
+
+
+#fifthp{
+	color: brown;
+	clear: right;
+}
+.quote{
+	text-align: right;
+}
