@@ -1,3 +1,2 @@
 # My miniature blog
-This will be used for testing the git 
-I just added another line to make changes to the readMe file
+This is my Blog, still working on it. When it is done I will post the readme
